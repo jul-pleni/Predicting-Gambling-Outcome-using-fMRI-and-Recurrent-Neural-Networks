@@ -1,4 +1,4 @@
-# Predicting-Gambling-Outcome-using-fMRI-and-Recurrent-Neural-Networks
+# Predicting Gambling Outcome using fMRI and Recurrent Neural Networks
 Neuromatch Academy Project 2024
 
 ### Authors (Equal Contribution): Amirhossein Zaboli, Manu Raghavan P V, Julia Plenert, Avisa Fallah, Rezvan Roushani
